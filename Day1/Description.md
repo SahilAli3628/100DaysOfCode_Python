@@ -7,7 +7,7 @@
     - Variables
 
 ## Project for Day 1:
-The *main.py* file contains the project for today
-It is a **Band Name Generator**
+The **main.py** file contains the project for today
+It is a _Band Name Generator_
 It takes two inputs, the City that you grew up in and Name of your pet and combines them to give you your band name
 
