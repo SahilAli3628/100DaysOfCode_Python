@@ -10,5 +10,6 @@
 ## Project for Day 3:
 The **main.py** file contains the project for today
 It is a _Treasure Island_
-First it takes an input (The total bill $). Then it takes the input for what % of tip would you like to give. Last input for how many people to split the bill.
+This program basically implements the Treasure Island Flowchart which is attached in the same directory
 
+ASCII art courtesy of : https://ascii.co.uk/art
